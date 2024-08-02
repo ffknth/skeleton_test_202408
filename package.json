@@ -30,5 +30,10 @@
   "main": "svelte.config.js",
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@iconify-icons/mdi": "^1.2.48",
+    "@iconify/icons-mdi": "^1.2.48",
+    "@iconify/svelte": "^4.0.2"
+  }
 }
